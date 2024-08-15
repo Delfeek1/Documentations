@@ -1,0 +1,12 @@
+**Update Group Owners via CSV Upload**
+
+Modify book 1 on [spreadsheet](https://ibm.enterprise.slack.com/files/W4E8QS067/F07CA97A0HJ/ng_prod_sos_idmgt_c_code_new_group_temp.xlsx)
+Copy Book 3 on spreadsheet after modification (Note: custom property 40 entries)
+Go on AHNG Admin
+Identity Repository-> Roles
+Actions -> Upload Role via Role Management
+Switch On: "First row as heading" & "Update Role Owner"
+Go to AHNG,
+Go to Intelligence
+Then My Application Pending Tasks
+Filter by CNUM, search for Admin to see pending tasks
