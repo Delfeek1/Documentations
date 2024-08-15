@@ -10,3 +10,5 @@ Go to AHNG,
 Go to Intelligence
 Then My Application Pending Tasks
 Filter by CNUM, search for Admin to see pending tasks
+
+Check "My Application Entitlement Details with Owner" to confirm owners are updated
